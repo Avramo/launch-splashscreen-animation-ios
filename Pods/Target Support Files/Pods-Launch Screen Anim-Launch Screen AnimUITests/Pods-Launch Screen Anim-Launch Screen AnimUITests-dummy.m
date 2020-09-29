@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Launch_Screen_Anim_Launch_Screen_AnimUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Launch_Screen_Anim_Launch_Screen_AnimUITests
+@end

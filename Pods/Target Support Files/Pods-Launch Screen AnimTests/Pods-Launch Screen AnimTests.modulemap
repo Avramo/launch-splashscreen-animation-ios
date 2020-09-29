@@ -1,0 +1,6 @@
+framework module Pods_Launch_Screen_AnimTests {
+  umbrella header "Pods-Launch Screen AnimTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
